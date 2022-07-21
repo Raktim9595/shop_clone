@@ -1,0 +1,26 @@
+{
+  "title": "Sweat Shirt",
+  "desc": "test",
+  "img": "test",
+  "categories": ["sweatshirt", "woman"],
+  "size": "M",
+  "color": "gray",
+  "price": 80
+},
+{
+  "userId": "6170d43665eef49e1f509745",
+  "products": [
+      {
+          "productId": "djkdnjad",
+          "quantity": 2
+      }, {
+          "productId": "4567klsd4",
+          "quantity": 1
+      }, {
+          "productId": "jadnjds555",
+          "quantity": 5
+      }
+  ],
+  "amount": 450,
+  "address": "Nepal, Pokhara"
+}
